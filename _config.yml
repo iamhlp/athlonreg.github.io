@@ -1,7 +1,7 @@
 # Site settings
 title: Athlonreg's Blog
 SEOTitle: 套陆的博客 | Athlonreg's Blog
-header-img: img/dog.jpg
+header-img: img/see.jpg
 email: 15563836030@163.com
 description: "Nothing is impossible for a willing heart."
 keyword: "athlonreg, Athlonreg's Blog, 套陆的博客, taolu, 套陆, Hacintosh, Apple, Mac"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/athlonreg/athlonreg.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "One today is worth two tomorrows!"
-sidebar-avatar: img/see.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/header.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
