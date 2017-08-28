@@ -91,12 +91,5 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title:
-        href: 
-    }
-]
 
 theme: jekyll-theme-hacker
