@@ -12,7 +12,7 @@ github_repo: "https://github.com/athlonreg/athlonreg.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "One today is worth two tomorrows!"
-sidebar-avatar: img/dog.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/see.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
