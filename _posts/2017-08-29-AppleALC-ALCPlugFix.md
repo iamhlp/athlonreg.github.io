@@ -82,6 +82,7 @@ where填上桌面，点export就生成AppleALC在桌面上了，一层一层打�
 
 如果不行重启一次应该就好了。
 
-
+如果你喜欢我的帖子，可以酌情打赏哦
+![reward](http://ovefvi4g3.bkt.clouddn.com/reward-1.jpg)
 
 
