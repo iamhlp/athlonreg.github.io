@@ -4,7 +4,7 @@ title:      AppleALC-ALCPlugFix
 subtitle:   简单制作AppleALC驱动声卡并解决耳机、外放切换、麦克风无输入以及耳机杂音问题
 date:       2017-08-29
 author:     athlonreg
-header-img: img/img/Mac.jpg
+header-img: img/Mac.jpg
 catalog: true
 tags:
 - Hacintosh
