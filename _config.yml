@@ -1,10 +1,10 @@
 # Site settings
 title: iamhlp's Blog
-SEOTitle: 苹果的博客 | 苹果's Blog
+SEOTitle: 小苹果的博客 | 苹果's Blog
 header-img: img/-6113bbb5daf0a7f1.jpg
 email: 3069693909@qq.com
 description: "Nothing is impossible for a willing heart."
-keyword: "苹果, 苹果's Blog, 苹果的博客, iamhlp, 苹果"
+keyword: "小苹果, 小苹果's Blog, 小苹果, iamhlp
 url: "http://iamhlp.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iamhlp/iamhlp.github.io.git" # you code repository
